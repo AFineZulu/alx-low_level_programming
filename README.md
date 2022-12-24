@@ -1,2 +1,1 @@
-# alx-low_level_programming
-a repo that uses betty linter
+A repo that uses betty linter.
